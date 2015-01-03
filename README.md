@@ -28,7 +28,7 @@ sudo update-alternatives --config ruby
 sudo update-alternatives --config gem
 ```
 3. Install vmware vagrant dependency:
-`sudo gem install nokogiri'
+`sudo gem install nokogiri`
 4. Install vmware vagrant plugin: 
 `sudo vagrant plugin install vagrant-vsphere`
 
